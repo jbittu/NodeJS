@@ -1,0 +1,24 @@
+{
+  "name": "express_learning",
+  "version": "1.0.0",
+  "description": "basic idea of express installation and working",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "keywords": [
+    "node",
+    "js",
+    "express",
+    "js",
+    "react",
+    "redux",
+    "tailwind"
+  ],
+  "author": "bittu",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2",
+    "nodemon": "^3.1.9"
+  }
+}
